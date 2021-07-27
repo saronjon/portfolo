@@ -1,0 +1,33 @@
+header{
+    font-size: 24px;
+    text-align: center;
+
+}
+p{
+    font-size: 20px;
+    
+}
+main{
+    margin-left: 120px;
+}
+.div1{
+    display: block;
+    float: left;
+    width: 20%;
+    padding: 10px;
+    padding-left: 12px;
+    overflow: hidden;
+    border-radius: 4px;
+
+}
+img{
+    width: 100%;
+    border-radius: 4px;
+
+}
+img:hover{
+    transform: scale(2);
+    transition: 2s transform;
+    border-radius: 4px; 
+}
+

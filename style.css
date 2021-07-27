@@ -1,0 +1,98 @@
+body {
+    background-color: lightgray;
+}
+
+.div1 {
+    background-color: rgb(223, 236, 236);
+height:200px;
+width: 100%;
+margin-top: 8px;
+}
+img{
+    width: 100%;
+    height: 100px;
+}
+
+
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    height: 70px;
+    width: 100%;
+    background-color: #b5d3f7;
+    overflow: auto;
+    margin-top: 0px;
+
+    border-left: 99px solid rgb(218, 221, 226);
+    border-right: 99px solid rgb(218, 221, 226);
+
+}
+.div2 {
+    background-color:rgb(243, 243, 243);
+    height: 640px;
+    width: 100%;
+    font-size: 20px;
+    margin-top: -29px;
+    padding-top: 30px; 
+    border-left: 90px lightgray ;
+    border-right: 90px lightgray;
+
+
+}
+.img1{
+    width: 100%;
+    height: 645px;
+
+}
+.img2{
+    border-radius: 50%;
+    height: 220px;
+    width: 200px;
+    margin-left:420px;
+    margin-top: 8px;
+    
+}
+
+.div3 {
+    background-color:rgb(243, 243, 243);
+    height: 390px;
+    width: 550%;
+    margin-left: 60px;
+    font-size: 20px;
+    margin-right: 280px;
+    border-left:60px solid rgb(243, 243, 243); 
+    border-right:60px solid rgb(243, 243, 243); 
+    border-top:2px solid rgb(243, 243, 243); 
+    
+}
+.div3in{
+    width: 840px;
+    height: 380px;
+    background-color: rgb(226, 236, 236);
+    float: left;
+}
+.pre3{
+    float: left;
+    margin-left: -130px;
+    font-size: 18px;
+}
+.divimage{
+    float: left;
+    width: 375px;
+    margin-top: -179px;
+    height: 290px;
+    background-color: rgb(247, 236, 217);
+    border-left:2px solid rgb(231, 247, 247); 
+    border-right:2px solid rgb(206, 231, 255); 
+    
+}
+
+.div5{
+    background-color:rgb(240, 242, 245);
+    width: auto;
+    height: 490px;
+    padding-top:10px;
+    border-left:60px solid rgb(246, 247, 248); 
+    border-right:60px solid rgb(242, 243, 245);
+ }
